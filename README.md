@@ -1,6 +1,8 @@
 ## 🚀 About Me
 Felipe Santos de Sales
-Full stack developer... 
+Futuro Desenvolvedor Java Full stack 
+Apaixonado por tecnologia
+🎓Estudante de Segurança da Informação
 
 
 
