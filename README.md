@@ -1,7 +1,7 @@
 ## 🚀 About Me
-Felipe Santos de Sales
-Futuro Desenvolvedor Java Full stack <br>
-Apaixonado por tecnologia
+🧑‍💻Felipe Santos de Sales <br>
+🎓Futuro Desenvolvedor Java Full stack <br>
+🧑‍💻Apaixonado por tecnologia
 🎓Estudante de Segurança da Informação
 
 
