@@ -1,4 +1,7 @@
 ## 🚀 About Me
+
+"The quieter you become, the more you are able to hear" 
+
 🧑‍💻Felipe Santos de Sales <br>
 🎓Futuro Desenvolvedor Java Full stack <br>
 🧑‍💻Apaixonado por tecnologia<br>
