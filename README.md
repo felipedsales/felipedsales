@@ -2,10 +2,10 @@
 
 "The quieter you become, the more you are able to hear" 
 
-🧑‍💻Felipe Santos de Sales <br>
-🎓Futuro Desenvolvedor Java Full stack <br>
-🧑‍💻Apaixonado por tecnologia<br>
-🎓Estudante de Segurança da Informação
+Felipe Santos de Sales <br>
+:office_worker:Analista de Suporte Técnico Remoto<br>
+:mortar_board:Formado de Segurança da Informação pela UNIP<br>
+:school_satchel:Estudante de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos
 
 <hr>
 
